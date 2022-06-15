@@ -1,21 +1,21 @@
-### Oi! Me chamo Luiz Henrique 👋
+# Sobre mim:
+Comecei a programar com 15 anos e desde então nunca parei de desenvolver projetos pessoas. Sou muito curioso, objetivo e criativo. Sempre que trabalho em equipe procuro encontrar o ponto em comum entre todos os participantes, para que possamos desenvolver a melhor solução para o problema.
+Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola de programação Trybe para me formar como Desenvolvimento Web Full Stack. A escola é focada no desenvolvimento das Soft Skills e Hard Skills mais requisitadas no mercado.
 
-### 📫 How to reach me:
-- e-mail: luizhenriquemendes123123@gmail.com
+## Tecnologias que domino:
+- Python
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Jest
+
+## Tecnologias que estou estudando:
+- React
+- Redux
+- TypeScript
+- API
+
+### 📫 Contato:
+- Email: luizhenriquemendes123123@gmail.com
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepy/) 
-
-
-<!--
-**LuizHenriquePy/LuizHenriquePy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
