@@ -9,12 +9,19 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 - CSS
 - Bootstrap
 - Jest
+- ESLint
+- NPM
 
 ## Tecnologias que estou estudando:
 - React
-- Redux
+- Node.js
 - TypeScript
 - API
+- Docker
+- MySQL
+- MongoDB
+- POO
+- CI/CD
 
 ### 📫 Contato:
 - Email: luizhenriquemendes123123@gmail.com
