@@ -11,10 +11,11 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 - Jest
 - ESLint
 - NPM
-
-## Tecnologias que estou estudando:
 - React
 - Node.js
+- Redux
+
+## Tecnologias que estou estudando:
 - TypeScript
 - API
 - Docker
