@@ -14,15 +14,23 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 - React
 - Node.js
 - Redux
+- Docker
+- Context API
 
-## Tecnologias que estou estudando:
+## Tecnologias que estou estudando/quero aprender:
 - TypeScript
 - API
-- Docker
+- Express.js
 - MySQL
 - MongoDB
 - POO
 - CI/CD
+- Next.js
+- Material UI
+- Prisma
+- Axios
+- AWS
+- Tailwaind CSS
 
 ### 📫 Contato:
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepy/) 
