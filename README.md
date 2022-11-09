@@ -33,4 +33,5 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 - Tailwaind CSS
 
 ### 📫 Contato:
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepy/) 
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepy/) 
+- Gmail: luizhenriquemendes123123@gmail.com
