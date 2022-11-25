@@ -8,6 +8,8 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 - HTML
 - CSS
 - Bootstrap
+- Express.js
+- MySQL
 - Jest
 - ESLint
 - NPM
@@ -20,8 +22,6 @@ Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola
 ## Tecnologias que estou estudando/quero aprender:
 - TypeScript
 - API
-- Express.js
-- MySQL
 - MongoDB
 - POO
 - CI/CD
