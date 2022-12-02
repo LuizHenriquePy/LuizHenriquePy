@@ -1,6 +1,6 @@
 # Sobre mim:
-Comecei a programar com 15 anos e desde então nunca parei de desenvolver projetos pessoas. Sou muito curioso, objetivo e criativo. Sempre que trabalho em equipe procuro encontrar o ponto em comum entre todos os participantes, para que possamos desenvolver a melhor solução para o problema.
-Em 2022 resolvi tornar a programação a minha carreira, então entrei na escola de programação Trybe para me formar como Desenvolvimento Web Full Stack. A escola é focada no desenvolvimento das Soft Skills e Hard Skills mais requisitadas no mercado.
+Aos 15 anos comecei a trabalhar na área de informática focado no atendimento de pessoas leigas e pouco acesso a tecnologia. Nessa experiência acabei descobrindo uma paixão por resolução de problemas de todos os tipos, desde matemáticos, físicos, jogos de estratégia e o tipo mais importante: programação. 
+Quando entrei no ensino médio achei que programar era só um hobby pessoal. Esse pensamento me fez entrar no curso de física da UFRJ. Amo o curso, porém no fundo sentia muita falta da computação até o ponto em que em 2022 resolvi entrar no curso Trybe para me formar como desenvolvedor Web Full Stack e tornar programação a minha profissão.
 
 # Tecnologias que domino:
 ## Linguagens, bibliotecas e frameworks:
