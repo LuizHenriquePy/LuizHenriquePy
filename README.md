@@ -4,7 +4,6 @@ Quando entrei no ensino médio achei que programar era só um hobby pessoal. Ess
 
 # Tecnologias que domino:
 ## Linguagens, bibliotecas e frameworks:
-- TypeScript
 - JavaScript
 - Node.js
 - Express.js
