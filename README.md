@@ -1,30 +1,46 @@
 ## Linguagens:
-- TypeScript
-- JavaScript
-- Python
-- HTML
-- CSS
+<div>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+</div>
+<div>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+</div>
 
 ## Frontend:
-- React
-- Redux
-- Context API
-- Tailwind CSS
-- Bootstrap
+<div>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+  <img height="55em" src="https://styled-components.com/logo.png">
+</div>
 
 ## Backend:
-- Node.js
-- Express.js
-- MySQL
-- Sequelize
-- Docker
+<div>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+</div>
+
+## Banco de dados:
+<div>
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
 ## Testing:
-- Jest
-- RTL
-- Mocha
-- Sinon
-- Chai
+<div>
+  
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="55em" src="https://testing-library.com/img/octopus-64x64.png"  />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+  <img height="55em" src="https://sinonjs.org/assets/images/logo.png" />
+  <img height="55em" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
+</div>
 
 ## Metodologias:
 - TDD
@@ -32,7 +48,6 @@
 - Kanban
 
 # Tecnologias que estou estudando/quero aprender:
-- MongoDB
 - GitHub Actions (CI/CD)
 - Next.js
 - Prisma
