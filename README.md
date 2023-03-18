@@ -66,7 +66,8 @@
 <div>
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-rust c c++ C#
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 <div>
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
@@ -79,5 +80,8 @@ rust c c++ C#
 - DDD
 
 ### 📫 Contato:
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizhenriquepy/) 
+<div>
+  <a href="https://www.linkedin.com/in/luizhenriquepy/" >
+  <img height="35em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</div>
 - Gmail: luizhenriquemendes123123@gmail.com
