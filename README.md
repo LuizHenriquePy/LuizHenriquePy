@@ -28,6 +28,7 @@
 ## Banco de dados:
 <div>
   <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="mysql" />
+  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" />
 </div>
 
 ## Testing:
@@ -47,7 +48,6 @@
 
 ## Estudando no momento:
 <div>
-  <img height="55em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" title="mongodb" />
   <img height="55em" src="https://styled-components.com/logo.png" title="styled components" />
 </div>
 
